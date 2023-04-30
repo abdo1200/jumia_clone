@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367115107639",
+    "project_id": "jumia-clone-c31de",
+    "storage_bucket": "jumia-clone-c31de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367115107639:android:ec228b62ed572e01c1eeb2",
+        "android_client_info": {
+          "package_name": "com.example.jumia_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367115107639-9cp9d6f6fpoa6caqs42ks790vrkicrom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jumia_clone",
+            "certificate_hash": "570c88b1b00d9f4edd487b1b247ae8d99b79340e"
+          }
+        },
+        {
+          "client_id": "367115107639-506k1hmgmuioo5s48pr27oa2r2t2ll6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpt_wt9PWMMRXvD2-0dva0xkrP8-k0NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367115107639-506k1hmgmuioo5s48pr27oa2r2t2ll6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
